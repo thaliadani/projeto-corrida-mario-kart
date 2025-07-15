@@ -1,10 +1,15 @@
 # Desafio de Projeto: Mario Kart.JS
 
-<img src="./docs/header.gif" alt="Mario Kart" width="200">
-
-## Objetivo
-
-Mario Kart é uma série de jogos de corrida desenvolvida e publicada pela Nintendo. Nosso desafio será criar a lógica de um videogame para simular corridas de Mario Kart, levando em consideração as regras e mecânicas abaixo.
+<table>
+  <tr>
+    <td>
+      <img src="./docs/header.gif" alt="Mario Kart" width="200">
+    
+      <b>Objetivo:</b>
+      <p>Mario Kart é uma série de jogos de corrida desenvolvida e publicada pela Nintendo. Nosso desafio será criar a lógica de um videogame para simular corridas de Mario Kart, levando em consideração as regras e mecânicas abaixo.</p>
+    </td>
+  </tr>
+</table>
 
 ## 👥 Players
 
