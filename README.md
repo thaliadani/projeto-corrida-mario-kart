@@ -16,8 +16,8 @@
 
 | Personagem | Atributos | Personagem | Atributos | Personagem | Atributos |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Mario** <br> <img src="./docs/mario.gif" alt="Mario" width="60"> | Velocidade: 4 <br> Manobrabilidade: 3 <br> Poder: 3 | **Peach** <br> <img src="./docs/peach.gif" alt="Peach" width="60"> | Velocidade: 3 <br> Manobrabilidade: 4 <br> Poder: 2 | **Yoshi** <br> <img src="./docs/yoshi.gif" alt="Yoshi" width="60"> | Velocidade: 2 <br> Manobrabilidade: 4 <br> Poder: 3 |
-| **Bowser** <br> <img src="./docs/bowser.gif" alt="Bowser" width="60"> | Velocidade: 5 <br> Manobrabilidade: 2 <br> Poder: 5 | **Luigi** <br> <img src="./docs/luigi.gif" alt="Luigi" width="60"> | Velocidade: 3 <br> Manobrabilidade: 4 <br> Poder: 4 | **Donkey Kong** <br> <img src="./docs/dk.gif" alt="Donkey Kong" width="60"> | Velocidade: 2 <br> Manobrabilidade: 2 <br> Poder: 5 |
+| **Mario** <br> <img src="./docs/players/mario.gif" alt="Mario" width="60"> | Velocidade: 4 <br> Manobrabilidade: 3 <br> Poder: 3 | **Peach** <br> <img src="./docs/players/peach.gif" alt="Peach" width="60"> | Velocidade: 3 <br> Manobrabilidade: 4 <br> Poder: 2 | **Yoshi** <br> <img src="./docs/players/yoshi.gif" alt="Yoshi" width="60"> | Velocidade: 2 <br> Manobrabilidade: 4 <br> Poder: 3 |
+| **Bowser** <br> <img src="./docs/players/bowser.gif" alt="Bowser" width="60"> | Velocidade: 5 <br> Manobrabilidade: 2 <br> Poder: 5 | **Luigi** <br> <img src="./docs/players/luigi.gif" alt="Luigi" width="60"> | Velocidade: 3 <br> Manobrabilidade: 4 <br> Poder: 4 | **Donkey Kong** <br> <img src="./docs/players/dk.gif" alt="Donkey Kong" width="60"> | Velocidade: 2 <br> Manobrabilidade: 2 <br> Poder: 5 |
 
 ### 🕹️ Regras & Mecânicas
 
